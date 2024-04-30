@@ -32,7 +32,6 @@ Encrypted Message : <encrypted_message>
 Decrypted Message : Hello, World!
 
 
-## Credits
-- Created by [Soumith]
-- Inspired by the Fernet encryption algorithm from the `cryptography` library.
+
+This format will separate the "Example" section from the "Credits" section in your README.md file. Replace `[Soumith]` with your actual name or any other information you want to include in the Credits section.
 
