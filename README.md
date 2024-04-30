@@ -26,8 +26,8 @@ python main.py
 
 
 ## Credits
-Created by [Soumith]
-Inspired by the Fernet encryption algorithm from the cryptography library.
+1.Created by Soumith Kumar Arja
+2.Inspired by the Fernet encryption algorithm from the cryptography library.
 
 ## Example
 ```bash
