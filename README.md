@@ -36,5 +36,5 @@ Decrypted Message : Hello, World!
 
 
 ## Credits
-1.Created by Soumith Kumar Arja
+1.Created by Soumith Kumar Arja.
 2.Inspired by the Fernet encryption algorithm from the cryptography library.
