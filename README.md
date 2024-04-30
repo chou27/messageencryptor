@@ -34,5 +34,6 @@ Decrypted Message : Hello, World!
 
 
 ## Credits
-Created by [Soumith]
-Inspired by the Fernet encryption algorithm from the cryptography library.
+- Created by [Your Name]
+- Inspired by the Fernet encryption algorithm from the `cryptography` library.
+
