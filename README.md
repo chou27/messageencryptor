@@ -32,8 +32,7 @@ Encrypted Message : <encrypted_message>
 Decrypted Message : Hello, World!
 
 
-
 ## Credits
-- Created by [Your Name]
+- Created by [Soumith]
 - Inspired by the Fernet encryption algorithm from the `cryptography` library.
 
