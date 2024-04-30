@@ -25,10 +25,6 @@ python main.py
 
 
 
-## Credits
-1.Created by Soumith Kumar Arja
-2.Inspired by the Fernet encryption algorithm from the cryptography library.
-
 ## Example
 ```bash
 python main.py
@@ -36,3 +32,9 @@ Enter a message to encrypt: Hello, World!
 You entered: Hello, World!
 Encrypted Message : <encrypted_message>
 Decrypted Message : Hello, World!
+```
+
+
+## Credits
+1.Created by Soumith Kumar Arja
+2.Inspired by the Fernet encryption algorithm from the cryptography library.
