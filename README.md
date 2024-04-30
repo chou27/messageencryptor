@@ -23,6 +23,12 @@ python main.py
 
 4. Follow the on-screen instructions to encrypt and decrypt messages.
 
+
+
+## Credits
+Created by [Soumith]
+Inspired by the Fernet encryption algorithm from the cryptography library.
+
 ## Example
 ```bash
 python main.py
@@ -30,8 +36,3 @@ Enter a message to encrypt: Hello, World!
 You entered: Hello, World!
 Encrypted Message : <encrypted_message>
 Decrypted Message : Hello, World!
-
-
-
-This format will separate the "Example" section from the "Credits" section in your README.md file. Replace `[Soumith]` with your actual name or any other information you want to include in the Credits section.
-
